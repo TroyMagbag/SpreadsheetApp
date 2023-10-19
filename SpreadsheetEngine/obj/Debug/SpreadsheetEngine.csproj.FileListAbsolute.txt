@@ -1,0 +1,12 @@
+C:\Users\troym\source\repos\Cpts_321_Projects\Cpts321_HW4\Spreadsheet_Troy_Magbag\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csprojAssemblyReference.cache
+C:\Users\troym\source\repos\Cpts_321_Projects\Cpts321_HW4\Spreadsheet_Troy_Magbag\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csproj.CoreCompileInputs.cache
+C:\Users\troym\source\repos\Cpts_321_Projects\Cpts321_HW4\Spreadsheet_Troy_Magbag\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.dll
+C:\Users\troym\source\repos\Cpts_321_Projects\Cpts321_HW4\Spreadsheet_Troy_Magbag\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\troym\source\repos\Cpts_321_Projects\Cpts321_HW4\Spreadsheet_Troy_Magbag\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.dll
+C:\Users\troym\source\repos\Cpts_321_Projects\Cpts321_HW4\Spreadsheet_Troy_Magbag\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.pdb
+C:\Users\troym\OneDrive\Documents\Spreadsheet_Troy_Magbag\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.dll
+C:\Users\troym\OneDrive\Documents\Spreadsheet_Troy_Magbag\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\troym\OneDrive\Documents\Spreadsheet_Troy_Magbag\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csproj.CoreCompileInputs.cache
+C:\Users\troym\OneDrive\Documents\Spreadsheet_Troy_Magbag\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.dll
+C:\Users\troym\OneDrive\Documents\Spreadsheet_Troy_Magbag\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.pdb
+C:\Users\troym\OneDrive\Documents\Spreadsheet_Troy_Magbag\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csproj.AssemblyReference.cache

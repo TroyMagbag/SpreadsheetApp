@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Spreadsheet_Troy_Magbag</name>
+    </assembly>
+    <members>
+        <member name="T:Spreadsheet_Troy_Magbag.Spreadsheet">
+            <summary>
+            Creates spreadsheet.
+            </summary>
+        </member>
+        <member name="M:Spreadsheet_Troy_Magbag.Spreadsheet.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Spreadsheet_Troy_Magbag.Spreadsheet"/> class.
+            </summary>
+        </member>
+        <member name="M:Spreadsheet_Troy_Magbag.Spreadsheet.CellPropertyChanged(System.Object,System.ComponentModel.PropertyChangedEventArgs)">
+            <summary>
+            Updates the cell in the datagridview when a cell’s
+            value changes.
+            </summary>
+            <param name="sender">Object sender.</param>
+            <param name="e">Property changed.</param>
+        </member>
+        <member name="M:Spreadsheet_Troy_Magbag.Spreadsheet.demoButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            When demo button is pressed all cells in B has the message "This is cell B" + row number.
+            Also column A has B's row numbers for each row in A cells.
+            Lastly a "random message" is placed in 50 random celss.
+            </summary>
+            <param name="sender">Object sender.</param>
+            <param name="e">Event argument.</param>
+        </member>
+        <member name="F:Spreadsheet_Troy_Magbag.Spreadsheet.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Spreadsheet_Troy_Magbag.Spreadsheet.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Spreadsheet_Troy_Magbag.Spreadsheet.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Spreadsheet_Troy_Magbag.Program">
+            <summary>
+            Main program.
+            </summary>
+        </member>
+        <member name="M:Spreadsheet_Troy_Magbag.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:Spreadsheet_Troy_Magbag.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Spreadsheet_Troy_Magbag.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Spreadsheet_Troy_Magbag.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>
